@@ -46,6 +46,7 @@ Submit your public instance [here](https://github.com/Domterion/zer0bin/issues/n
 
 | URL                                            | Expiration | Max paste size | Total Pastes                                 | Version                                       | Country |
 | ---------------------------------------------- | ---------- | -------------- | -------------------------------------------- | --------------------------------------------- | ------- |
+| [bin.freedomcraft.systems](https://bin.upinsmoke.systems)                   | 365 days    | 150,000 chars   | ![pastes](https://bin.upinsmoke.systems/api/b/t)          | ![version](https://bin.upinsmoke.systems/api/b/v)          | 🇺🇸 USA  |
 | [zer0b.in](https://zer0b.in)                   | 90 days    | 50,000 chars   | ![pastes](https://zer0b.in/api/b/t)          | ![version](https://zer0b.in/api/b/v)          | 🇺🇸 USA  |
 | [stepbro.voring.me](https://stepbro.voring.me) | 365 days   | 69,000 chars   | ![pastes](https://stepbro.voring.me/api/b/t) | ![version](https://stepbro.voring.me/api/b/v) | 🇺🇸 USA  |
 | [paste.m2.nz](https://paste.m2.nz/)                | 90 days    | 60,000 chars   | ![pastes](https://paste.m2.nz/api/b/t)         | ![version](https://paste.m2.nz/api/b/v)         | 🇳🇿 NZ   |
