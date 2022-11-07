@@ -1,0 +1,13 @@
+[Unit]
+Description=PasteBin SmokeSystems
+
+[Service]
+WorkingDirectory=/opt/paste-it/backend
+ExecStart=/opt/paste-it/backend/target/release/zer0bin-bin
+Type=simple
+TimeoutStopSec=10
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
